@@ -1,0 +1,15 @@
+module Binary_UpDown_Counter(clk, enable, ClrN, direction, data);
+
+input clk, enable, ClrN, direction;
+output reg [3:0] data;
+
+initial begin
+  data = 4'b0000;
+end
+
+// Write your codd here
+// Write your codd here
+// Write your codd here
+
+endmodule
+

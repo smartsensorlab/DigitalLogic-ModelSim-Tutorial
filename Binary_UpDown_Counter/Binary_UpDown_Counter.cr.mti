@@ -1,0 +1,15 @@
+C:/github/DigitalLogic-ModelSim-Tutorial/Binary_UpDown_Counter/Binary_UpDown_Counter.v {1 {vlog -work work -stats=none {C:\github\DigitalLogic-ModelSim-Tutorial\Binary_UpDown_Counter\Binary_UpDown_Counter.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Binary_UpDown_Counter
+
+Top level modules:
+	Binary_UpDown_Counter
+
+} {} {}} C:/github/DigitalLogic-ModelSim-Tutorial/Binary_UpDown_Counter/Binary_UpDown_Counter_tb.v {1 {vlog -work work -stats=none C:/github/DigitalLogic-ModelSim-Tutorial/Binary_UpDown_Counter/Binary_UpDown_Counter_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Binary_UpDown_Counter_tb
+
+Top level modules:
+	Binary_UpDown_Counter_tb
+
+} {} {}}
