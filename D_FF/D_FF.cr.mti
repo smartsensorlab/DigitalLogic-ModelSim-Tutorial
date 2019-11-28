@@ -1,0 +1,15 @@
+C:/github/DigitalLogic-ModelSim-Tutorial/D_FF/D_FF.v {1 {vlog -work work -stats=none C:/github/DigitalLogic-ModelSim-Tutorial/D_FF/D_FF.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module D_FF
+
+Top level modules:
+	D_FF
+
+} {} {}} C:/github/DigitalLogic-ModelSim-Tutorial/D_FF/D_FF_tb.v {1 {vlog -work work -stats=none {C:\github\DigitalLogic-ModelSim-Tutorial\D_FF\D_FF_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module D_FF_tb
+
+Top level modules:
+	D_FF_tb
+
+} {} {}}

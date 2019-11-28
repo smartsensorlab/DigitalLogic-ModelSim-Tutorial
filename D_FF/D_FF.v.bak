@@ -1,0 +1,14 @@
+module D_FF(clk, ClearN, Load, D, Q);
+
+input clk, ClearN, Load, D;
+output reg Q;
+
+always @ (posedge clk or negedge ClearN) begin
+  if(ClearN == 0)
+    D <= 0;
+  else if (Load)
+    D <= Q;
+end
+
+
+endmodule
