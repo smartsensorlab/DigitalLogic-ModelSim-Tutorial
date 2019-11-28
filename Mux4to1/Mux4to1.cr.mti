@@ -1,0 +1,15 @@
+C:/github/DigitalLogic-ModelSim-Tutorial/Mux4to1/mux4_to_1.v {1 {vlog -work work -stats=none C:/github/DigitalLogic-ModelSim-Tutorial/Mux4to1/mux4_to_1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux4_to_1
+
+Top level modules:
+	mux4_to_1
+
+} {} {}} C:/github/DigitalLogic-ModelSim-Tutorial/Mux4to1/mux4_to_1_tb.v {1 {vlog -work work -stats=none C:/github/DigitalLogic-ModelSim-Tutorial/Mux4to1/mux4_to_1_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux4_to_1_tb
+
+Top level modules:
+	mux4_to_1_tb
+
+} {} {}}
