@@ -1,0 +1,22 @@
+C:/github/DigitalLogic-ModelSim-Tutorial/FA_4bit/FA4bit_tb.v {1 {vlog -work work -stats=none {C:\github\DigitalLogic-ModelSim-Tutorial\FA_4bit\FA4bit_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FA4bit_tb
+
+Top level modules:
+	FA4bit_tb
+
+} {} {}} C:/github/DigitalLogic-ModelSim-Tutorial/FA_4bit/FA1bit.v {1 {vlog -work work -stats=none {C:\github\DigitalLogic-ModelSim-Tutorial\FA_4bit\FA1bit.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FA1bit
+
+Top level modules:
+	FA1bit
+
+} {} {}} C:/github/DigitalLogic-ModelSim-Tutorial/FA_4bit/FA4bit.v {1 {vlog -work work -stats=none {C:\github\DigitalLogic-ModelSim-Tutorial\FA_4bit\FA4bit.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FA4bit
+
+Top level modules:
+	FA4bit
+
+} {} {}}
